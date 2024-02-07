@@ -2,7 +2,7 @@ import "./app.scss"
 import Hero from "./components/hero/Hero";
 import Navbar from "./components/navbar/Navbar";
 import Parallax from "./components/parallax/parallax";
-import Services from "./components/services/services";
+import Services from "./components/services/Services";
 import Portfolio from "./components/portfolio/Portfolio";
 import Contacts from "./components/contacts/Contacts";
 
